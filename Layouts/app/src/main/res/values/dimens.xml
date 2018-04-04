@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding_padrao">16dp</dimen>
+    <dimen name="width_92dp">92dp</dimen>
+    <dimen name="height_92dp">92dp</dimen>
+    <dimen name="text_size_nome">24dp</dimen>
+    <dimen name="width_Linear_layout">300dp</dimen>
+    <dimen name="marginTop">60dp</dimen>
+    <dimen name="absolute">300dp</dimen>
+</resources>

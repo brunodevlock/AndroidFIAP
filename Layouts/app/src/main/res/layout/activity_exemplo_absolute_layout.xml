@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Button
+        android:layout_width="@dimen/absolute"
+        android:layout_height="wrap_content"
+        android:text="@string/um_bot_o_qualquer"
+        android:layout_x="30dp"
+        android:layout_y="80dp"
+        />
+
+</AbsoluteLayout>

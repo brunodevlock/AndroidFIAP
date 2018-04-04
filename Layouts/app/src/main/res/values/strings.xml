@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="joao_da_silva">Joao da Silva</string>
+    <string name="pessoa_fiap_com_br">pessoa@fiap.com.br</string>
+    <string name="botao_no_final_do_app">Botao no final do App</string>
+    <string name="voltar">voltar</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">senha</string>
+    <string name="salvar">salvar</string>
+    <string name="absolute_layout">Absolute layout</string>
+    <string name="um_bot_o_qualquer">Um botão qualquer</string>
+    <string name="table">TableLayout</string>
+    <string name="botao_1">botao 1</string>
+    <string name="botao_2">botao 2</string>
+    <string name="constraint_layout">Constraint Layout</string>
+</resources>
